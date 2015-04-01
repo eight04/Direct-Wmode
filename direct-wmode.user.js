@@ -1,8 +1,9 @@
 // ==UserScript==
-// @name	Direct Wmode
-// @version 0.1.0
-// @include http*
-// @grant	none
+// @name		Direct Wmode
+// @description	An userscript to make flash object display in "direct" mode.
+// @namespace	eight04.blogspot.com
+// @version 	0.1.0
+// @grant		none
 // ==/UserScript==
 
 new MutationObserver(cleanContainer).observe(document.body, {
