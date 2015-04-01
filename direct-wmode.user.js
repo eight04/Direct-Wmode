@@ -2,7 +2,8 @@
 // @name		Direct Wmode
 // @description	An userscript to make flash object display in "direct" mode.
 // @namespace	eight04.blogspot.com
-// @version 	0.1.0
+// @include		http://www.example.com/
+// @version 	0.1.1
 // @grant		none
 // ==/UserScript==
 
